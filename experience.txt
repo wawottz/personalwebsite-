@@ -1,0 +1,342 @@
+<html>
+<head>
+<title>Personal Website: Experience</title>
+<br>
+<html lang="en">
+
+<head>
+
+
+ <script>
+ function startTime() {
+  var today = new Date();
+  var h = today.getHours();
+  var m = today.getMinutes();
+  var s = today.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt').innerHTML =
+  h + ":" + m + ":" + s;
+  var t = setTimeout(startTime, 500);}
+
+ function checkTime(i) {
+  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+  return i;
+ }
+ </script>
+ <title>Page Title</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <style>
+ /* Style the body */
+   body {font-family: Arial;margin: 0;}
+ /* Header/Logo Title */
+   .header {padding: 60px;text-align: center;background: "black";color: white;font-size: 30px;}
+ /* Page Content */
+   .content {padding:20px;}
+ </style>
+ <div class="header">
+   <h1><font face="Times New Roman" font size="500"><big><center><a name="#E X P E R I E N C E">E X P E R I E N C E</a></center></h1>
+   <font size=5><center>Wawottz's Personal Website</center>
+ <style>
+ body {margin: 0;font-family: Arial, Helvetica, sans-serif;}
+   .topnav {overflow: hidden;background-color: #333;}
+   .topnav a {float: left;color: #f2f2f2;text-align: center;padding:15px 66.7px;text-decoration: none;font-size: 17px;}
+   .topnav a:hover {background-color: #ddd;color: black;}
+   .topnav a.active {background-color: #4CAF50;color: white;}
+ </style>
+
+</head>
+
+<body onload="startTime()">
+
+<div id="txt"></div>
+ <br>
+
+<body bgcolor="#DFB2A9">
+
+<a name="top"></a>
+
+ <div class="topnav">
+   <a href="">Home</a>
+   <a href="">About Me</a>
+   <a href="">Family</a>
+   <a href="">Education</a>
+   <a href="">Experience</a>
+   <a href="">Gallery</a>
+   <a href="">Social Media</a>
+ <center></div>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+<tr>
+<td height="180" align="center" valign="middle" colspan="2">
+<font face="Times New Roman" size="6" color="#4C4C4B">
+Working  
+</font>
+<hr noshade width="90" color="black">
+</td>
+</tr>
+
+<tr>
+<td width="35%">
+<img src="images/shell.jpg" width="100%" border="1" alt="me with shell tshirt" />
+</td>
+<td width="65%" valign="top">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td>
+</td> 
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>
+<br>
+<font face="arial" size="4" color="white">
+</font>
+<p>
+I finished my highschool andd I started work at Shell as a cashier for 3 months from January until March.
+<br>
+<br>
+It is located nearby my house and offering a suitable payment for a part timer student as well.
+<br>
+<br>
+Theres a lot things that I've learned while working at the Shell such as how to interact
+ with people and deal with problems. Since it located at highway to go to Singapore I need
+to deal with foreigners and communicate in English.  
+<br>
+<br>
+It is not easy to be as a cashier because I had responsibilities such as
+<li>to handles the cash's company and manage transations with customers</li>
+<li>reedem coupons</li>
+<li>top up the TouchnGo card</li>
+<li>collect payments whether in cash or credit</li>
+<li>greet customers when entering or leaving the counter</li>
+</p>
+<hr noshade>
+<p>Location: SH R&R Second Link SB. Rest&Service Area 2nd Link, Johor Bahru, 81550</p>
+<tr>
+<td>
+</td> 
+</tr>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="60" colspan="3">
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="">
+<tr>
+<td>
+<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+<tr>
+<td height="180" align="center" valign="middle" colspan="2">
+<font face="Times New Roman" size="6" color="#4C4C4B">
+Intership
+</font>
+<hr noshade width="200" color="black">
+</td>
+</tr>
+
+<tr>
+<td width="35%">
+<img src="images/practical.jpg" width="100%" border="1" alt="card intership" />
+</td>
+<td width="65%" valign="top">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td>
+</td> 
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>
+<br>
+<font face="arial" size="4" color="white">
+</font>
+<p>
+During semester break, all Library Management student required to finish their Intership at the library around 6 weeks. 
+<br>
+<br>
+I chose PPAP as my internship place and I've learned a lot in 6 weeks. To begin, I started my intership 
+on 16 January 2020 until 20 February 2020. 
+<br>
+<br> 
+I've learned to be a good librarian which need to know and meet the user needs. Not only that, 
+I also learned to use KOHA Library System such to catalog book in this system, to pay fee when users return
+the book late and else. 
+<br> 
+<br> 
+Furthermore, I also develop my soft skills and enhance the communication skills due to interact with users. 
+<br>
+<br>
+I also joined a few library programs that organized by PPAP staff. 
+</p> 
+<hr noshade>
+<p>Location: Pahang Public Library Corporation, Jalan Kemunting, Tanah Putih, 25100 Kuantan, Pahang</p>
+<tr>
+<td>
+</td> 
+</tr>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="60" colspan="3">
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="">
+<tr>
+<td>
+<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+<tr>
+<td height="180" align="center" valign="middle" colspan="2">
+<font face="Times New Roman" size="6" color="#4C4C4B">
+Project Leader
+</font>
+<hr noshade width="200" color="black">
+</td>
+</tr>
+
+<tr>
+<td width="35%">
+<img src="images/titihayun.jpg" width="100%" border="1" alt="kembara group" />
+</td>
+<td width="65%" valign="top">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td>
+</td> 
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>
+<br>
+<font face="arial" size="4">
+</font>
+<p>
+In Semester 2, I assigned as Project Leader to manage a hiking program by Tuan Shahar for HBU1252A
+(Outward Bound Kesatria). 
+<br>
+<br> 
+The program name by me and called as "Jejak Rimba". At first, there's a lot things I through out such as 
+to do proposal, got approval from HEP, need to have a permit from "Jabatan Perhutanan" and more. 
+<br>
+<br> 
+However, with support and help by Tuan Shahar, everything run smooth.  The program held on 16 March 2019. 
+</p>
+<hr noshade>
+<p>Location: Putri Mandi, Titi Hayun Yan Kedah</p>
+<tr>
+<td>
+</td> 
+</tr>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="60" colspan="3">
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="">
+<tr>
+<td>
+<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+<tr>
+<td height="180" align="center" valign="middle" colspan="2">
+<font face="Times New Roman" size="6" color="#4C4C4B">
+Facilitator 
+</font>
+<hr noshade width="200" color="black">
+</td>
+</tr>
+
+<tr>
+<td width="35%">
+<img src="images/fasi.jpg" width="100%" border="1" alt="image of fasi" />
+</td>
+<td width="65%" valign="top">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td>
+</td> 
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>
+<br>
+<font face="arial" size="4" color="white">
+</font>
+<p>
+The program organized by Library Management Association (ALiM) and held on 19 0ctober 2019. 
+<br>
+<br> 
+It involved all Semester 1 & 2 students and fews facilitator from Semester 3 & 4. 
+<br> 
+<br> 
+As a facilitor, I need to manage the students and each facilitator assigned with a group. 
+</p> 
+<hr noshade>
+<p>Location: Rugby Field, UiTM Kedah</p> 
+<tr>
+<td>
+</td> 
+</tr>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="60" colspan="3">
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<a href="#top"><img src="images/buttontop.jpg" width="50" height="50" align="center"></a>
+
+</body>
+</html>

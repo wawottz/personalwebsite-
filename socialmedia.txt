@@ -1,0 +1,56 @@
+
+<html>
+<head>
+<title>Social Media</title>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<style>
+{ margin: 0; padding: 0; }
+.centerdiv{
+height: 100vh; 
+display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+a{
+height: 100px;
+width: 100px;
+background-color: #f5f6fa;
+border-radius: 50px;
+margin: 19px;
+line-height: 110px;
+box-shadow: 1px 4px 2px 2px #dcdde1;
+}
+a i {
+transition: all 0.3s linear;
+}
+a:hover i{
+transform: scale(1.4);
+}
+.fa-instagram{
+color: #e84393
+}
+.fa-twitter{
+color: #0097e6
+}
+</style>
+</head>
+<body bgcolor="#DFB2A9">
+
+<div class="centerdiv">
+<a href="https://www.facebook.com/najwa.shuhada.313" target="_blank">
+<i class="fab fa-3x fa-facebook-f"></i>
+</a>
+
+<a href="https://twitter.com/lonelinessftme"> 
+<i class="fab fa-3x fa-twitter"></i>
+</a>
+
+<a href="https://www.instagram.com/wawottz">
+<i class="fab fa-3x fa-instagram"></i>
+</a>
+</div>
+
+<embed src="sounds/instru.mp3" autoplay="true "hidden="true" width="0" height="0"></embed>
+</body>
+</html>
